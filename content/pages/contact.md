@@ -4,7 +4,7 @@ sections:
   - type: HeroSection
     title: Contact
     text: >
-      Let’s build something great together.
+      Let’s build something great together today
 
       Complete our contact form or send us an email at [email@example.com](mailto:email@email.com) .
     feature:
