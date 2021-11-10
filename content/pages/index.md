@@ -5,8 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: >-
-      This is an Award Winning Agency Based in San Francisco 
+    title: This is an Award Winning Agency Based in San Francisco
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
@@ -17,8 +16,16 @@ sections:
       self:
         height: auto
         width: wide
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-12', 'pb-12', 'pr-4', 'pl-4']
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pr-4
+          - pl-4
         alignItems: center
         justifyContent: center
         flexDirection: row
@@ -62,8 +69,16 @@ sections:
       self:
         height: auto
         width: wide
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-12', 'pb-12', 'pr-4', 'pl-4']
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pr-4
+          - pl-4
         justifyContent: center
       title:
         fontWeight: '700'
