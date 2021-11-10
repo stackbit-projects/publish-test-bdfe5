@@ -6,8 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: >-
-      This is an Award Winning Agency Based in San Francisco and Focusing on
-      Digital, Identity, and Print Design.
+      This is an Award Winning Agency Based in San Francisco 
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
